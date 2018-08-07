@@ -1,0 +1,39 @@
+Name:  Robert Chance
+Login: cs11faay
+PID:   A13088857
+Date:  11/15/15
+
+Program Description:  This program is a version of the classic arcade game
+  Snake.  The objective is the navigate a snake around the screen collecting 
+  objects, apples in this case, and while growing larger with each one, the
+  player must attempt to fill the entire screen.  The game is ended if the 
+  player navigates the snake's head into either its body or the wall. The snake
+  moves forward at a constant speed and the user is able to control the 
+  snake to get left, right, up, or down with the direction arrows. As well,
+  the user can pause the game using the space bar.
+
+Short Response:
+
+  1. I prioritize my time such that I finish that work that is the most
+     critical to my grades.  And if at the end of the week I don't have enough
+     time to finish all of my work, then hopefully I've done enough not to fail
+     my classes.  What else can you do?
+
+  2. She should use interfaces since all of the objects are shapes that have
+     colors.  She then should use a method such as setColor() and pass in the
+     color she desires.
+
+  3. Java interfaces and abstract classes differ in that interfaces only 
+     contain public static final components.  Abstract classes can contain 
+     methods with implementation.  Also an abstract class can be subclassed.
+
+  4. Java interfaces and abstract classes are similar in that they both can 
+     contain abstract methods and they cannot be instantiated.
+
+  5.
+
+  6. Adding the modifier -p as in mkdir -p fooDir/barDir will allow you to
+     create several recursive subdirectories.
+ 
+ 
+
